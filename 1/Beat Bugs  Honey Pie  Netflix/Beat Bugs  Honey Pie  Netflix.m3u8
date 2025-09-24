@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.416667,
+Beat Bugs  Honey Pie  Netflix0.ts
+#EXTINF:10.833333,
+Beat Bugs  Honey Pie  Netflix1.ts
+#EXTINF:11.750000,
+Beat Bugs  Honey Pie  Netflix2.ts
+#EXTINF:2.833333,
+Beat Bugs  Honey Pie  Netflix3.ts
+#EXT-X-ENDLIST

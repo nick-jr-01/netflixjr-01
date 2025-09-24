@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.083333,
+Beat Bugs  The Word  Netflix0.ts
+#EXTINF:10.416667,
+Beat Bugs  The Word  Netflix1.ts
+#EXTINF:9.458333,
+Beat Bugs  The Word  Netflix2.ts
+#EXTINF:11.000000,
+Beat Bugs  The Word  Netflix3.ts
+#EXTINF:0.541667,
+Beat Bugs  The Word  Netflix4.ts
+#EXT-X-ENDLIST

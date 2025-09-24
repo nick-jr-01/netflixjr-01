@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:11.833333,
+Beat Bugs  Rain  Netflix0.ts
+#EXTINF:11.333333,
+Beat Bugs  Rain  Netflix1.ts
+#EXTINF:7.375000,
+Beat Bugs  Rain  Netflix2.ts
+#EXTINF:13.083333,
+Beat Bugs  Rain  Netflix3.ts
+#EXT-X-ENDLIST
